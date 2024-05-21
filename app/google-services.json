@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "66880767825",
+    "project_id": "db1-fiap-project",
+    "storage_bucket": "db1-fiap-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66880767825:android:9967ae7df8159aeef07570",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCblEePwzBHZ8aKriDFo_bHIME_amtUqw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
