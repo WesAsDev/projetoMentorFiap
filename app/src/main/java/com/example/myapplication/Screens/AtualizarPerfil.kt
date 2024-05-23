@@ -163,9 +163,9 @@ fun AtualizarPerfil(){
         }
 
 
-        Button(onClick = { Log.i("CHECKLIST", "ListIntersse: ${interesseList} \n ListFormacao: ${formacaoList}")}) {
-            Text(text = "checlkist")
-        }
+//        Button(onClick = { Log.i("CHECKLIST", "ListIntersse: ${interesseList} \n ListFormacao: ${formacaoList}")}) {
+//            Text(text = "checlkist")
+//        }
         Button(onClick = {
 
             if(nomeState.value != ""){

@@ -220,9 +220,9 @@ fun SignUp(lat: Double?, long: Double?, navigateToLogin: () -> Unit){
         }
 
 
-        Button(onClick = { Log.i("CHECKLIST", "ListIntersse: ${interesseList} \n ListFormacao: ${formacaoList}")}) {
-            Text(text = "checlkist")
-        }
+//        Button(onClick = { Log.i("CHECKLIST", "ListIntersse: ${interesseList} \n ListFormacao: ${formacaoList}")}) {
+//            Text(text = "checlkist")
+//        }
         Button(onClick = {
             if(lat == null || long == null){
                 MainActivity().getLocation()
